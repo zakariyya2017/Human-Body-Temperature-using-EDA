@@ -1,10 +1,9 @@
-##Miniproject-Human-Body-Temperature-using-EDA 
+**Miniproject-Human-Body-Temperature-using-EDA** 
 
-##What is the True Normal Human Body Temperature?  
+**What is the True Normal Human Body Temperature?**  
 
-##Background
-
-The mean normal body temperature was held to be 37 degree centigrade for more than 120 years since it was first conceptualized and reported by Carl Wunderlich in a famous 1868 book. But, is this value statistically correct?
+**Background**
+The mean normal body temperature was held to be 37 °C (98.6 °F) for more than 120 years since it was first conceptualized and reported by Carl Wunderlich in a famous 1868 book. But, is this value statistically correct?
 
 Exercises
 In this exercise, you will analyze a dataset of human body temperatures and employ the concepts of hypothesis testing, confidence intervals, and statistical significance.
