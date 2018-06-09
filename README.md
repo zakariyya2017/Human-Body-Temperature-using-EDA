@@ -6,11 +6,12 @@
 
 The mean normal body temperature was held to be 37 °C (98.6 °F) for more than 120 years since it was first conceptualized and reported by Carl Wunderlich in a famous 1868 book. But, is this value statistically correct?
 
-Exercises
+**Exercises**
 
 In this exercise, you will analyze a dataset of human body temperatures and employ the concepts of hypothesis testing, confidence intervals, and statistical significance.
 
-Answer the following questions in this notebook below and submit to your Github account.
+**Answer the following questions in this notebook below and submit to your Github account.**
+
 Is the distribution of body temperatures normal?
 
 Although this is not a requirement for CLT to hold (read CLT carefully), it gives us some peace of mind that the population may also be normally distributed if we assume that this sample is representative of the population.
