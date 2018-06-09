@@ -1,4 +1,4 @@
-**Miniproject-Human-Body-Temperature-using-EDA** 
+**Human-Body-Temperature-using-EDA** 
 
 **What is the True Normal Human Body Temperature?**  
 
